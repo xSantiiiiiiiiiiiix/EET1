@@ -1,0 +1,8 @@
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\bin\Debug\Presupuesto.exe
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\bin\Debug\Presupuesto.pdb
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\ResolveAssemblyReference.cache
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\Presupuesto.Form1.resources
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\Presupuesto.Properties.Resources.resources
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\Presupuesto.csproj.GenerateResource.Cache
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\Presupuesto.exe
+D:\usuarios\alumno\descargas\Waigel Santiago\Presupuesto\obj\Debug\Presupuesto.pdb
